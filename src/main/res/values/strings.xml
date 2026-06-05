@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToolRental</string>
+    <string name="app_name_full">Аренда инструментов</string>
+    <string name="app_logo_desc">Логотип приложения</string>
+
+    <!-- Login/Register -->
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="full_name_hint">Полное имя</string>
+    <string name="role">Роль</string>
+
+    <!-- Roles -->
+    <string name="role_renter">Арендатор</string>
+    <string name="role_owner">Владелец</string>
+
+    <!-- Tool strings -->
+    <string name="tool_name">Название инструмента</string>
+    <string name="tool_description">Описание</string>
+    <string name="price_per_day">Цена в день (₽)</string>
+    <string name="save">Сохранить</string>
+    <string name="add_tool">Создать инструмент</string>
+    <string name="edit_tool">Редактировать инструмент</string>
+    <string name="delete_tool">Удалить</string>
+    <string name="confirm_delete">Вы уверены, что хотите удалить инструмент?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <!-- Booking -->
+    <string name="start_date">Дата начала</string>
+    <string name="end_date">Дата окончания</string>
+    <string name="confirm_booking">Подтвердить бронирование</string>
+    <string name="my_bookings">Мои бронирования</string>
+    <string name="booking_requests">Запросы на бронирование</string>
+    <string name="pending">ожидает</string>
+    <string name="confirmed">подтверждено</string>
+    <string name="cancelled">отменено</string>
+    <string name="select_dates">Выберите даты</string>
+
+    <!-- Messages -->
+    <string name="fill_all_fields">Заполните все поля</string>
+    <string name="invalid_email">Неверный формат email</string>
+    <string name="login_success">Добро пожаловать</string>
+    <string name="login_failed">Неверный email или пароль</string>
+    <string name="registration_success">Регистрация успешна</string>
+    <string name="registration_failed">Ошибка: email уже существует</string>
+    <string name="tool_added">Инструмент добавлен</string>
+    <string name="tool_updated">Инструмент обновлён</string>
+    <string name="tool_deleted">Инструмент удалён</string>
+    <string name="booking_sent">Заявка на бронирование отправлена</string>
+    <string name="booking_confirmed">Бронирование подтверждено</string>
+    <string name="booking_cancelled">Бронирование отменено</string>
+    <string name="cannot_cancel_confirmed">Нельзя отменить подтверждённое бронирование</string>
+    <string name="action">Действие</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Отменить</string>
+
+    <!-- Guest mode -->
+    <string name="guest_mode">Войти как гость</string>
+    <string name="please_register_first">Сначала зарегистрируйтесь или войдите в аккаунт</string>
+    <string name="logout">Выйти</string>
+
+    <!-- Titles -->
+    <string name="announcements">Объявления</string>
+    <string name="my_bookings_title">Мои бронирования</string>
+    <string name="requests_title">Запросы</string>
+    <string name="create_announcement">Создать</string>
+
+    <!-- Owner screen -->
+    <string name="my_announcements">Мои объявления</string>
+    <string name="create">Создать</string>
+    <string name="requests">Запросы</string>
+</resources>
