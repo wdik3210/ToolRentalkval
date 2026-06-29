@@ -18,4 +18,5 @@
 - Среда разработки: Android Studio
 - База данных: Firebase (Realtime Database / Firestore, Authentication).
 
-<img  src="https://github.com/user-attachments/assets/d47e797f-32e4-4046-86e7-5898aa44f845" alt="{13C62AD2-5C63-412D-A3F6-626AD615AF8E} />
+<img src="https://github.com/user-attachments/assets/eafc8894-a049-473b-b75f-8d9c9f357983" alt="toolrental"/>
+
